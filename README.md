@@ -6,7 +6,7 @@ Buka CMD dan masuk ke direktori utama dari file program Java. Jika sudah, compil
 ```bash
 mvn install
 ```
-___
+
 ### RUN PROGRAM JAVA
 Setelah melakukan compile, jalankan program java dengan command 
 ```bash
